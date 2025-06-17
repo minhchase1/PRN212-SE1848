@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace HelloWPF
+namespace BaiTap2ControlCoBan
 {
     /// <summary>
     /// Interaction logic for App.xaml

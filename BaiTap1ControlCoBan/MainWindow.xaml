@@ -22,7 +22,7 @@
 
             <Button Name="btnThoat" Width="100" Margin="10" Click="BtnThoat_Click">
                 <StackPanel Orientation="Horizontal">
-                    <Image Source="img/thoat.png" Width="20" Height="17">
+                    <Image Source="pack://siteoforigin:,,,/img/thoat.png" Width="20" Height="17">
                         <Image.RenderTransform>
                             <TransformGroup>
                                 <ScaleTransform/>
